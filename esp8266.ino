@@ -6,8 +6,8 @@
 #define trigPin 2  // GPIO2 (D4 on NodeMCU)
 #define buzzerPin D0
 
-const char* ssid = "iPhone";
-const char* password = "shadmansohel";
+const char* ssid = "WIFI";
+const char* password = "PASSWORD";
 const char* badRequest = "https://rateto-backend.onrender.com/ESP8266";
 const char* goodRequest = "https://rateto-backend.onrender.com/ESP8266_GOOD";
 
